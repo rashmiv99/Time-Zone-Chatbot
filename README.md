@@ -3,3 +3,5 @@
 This chatbot displays the time zone of a particular city as requested by the user.<br><br>
 <i><b>Note:</b> The cities have been provided by means of a Python Dictionary; the same can be integrated with a database.</i><br><br>
 For more details about the project, you may <a href="https://www.coursera.org/projects/chatbot-rasa-python">visit the site here</a>.
+# Certificate
+<a href="https://www.coursera.org/account/accomplishments/certificate/RB43NJ5PVDHQ">Verified Certificate</a><br>
